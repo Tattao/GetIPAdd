@@ -1,0 +1,9 @@
+E:\GitHub\GetIPAdd\GetIPAdd\GetIPAdd\bin\Debug\GetIPAdd.exe.config
+E:\GitHub\GetIPAdd\GetIPAdd\GetIPAdd\bin\Debug\GetIPAdd.exe
+E:\GitHub\GetIPAdd\GetIPAdd\GetIPAdd\bin\Debug\GetIPAdd.pdb
+E:\GitHub\GetIPAdd\GetIPAdd\GetIPAdd\obj\Debug\GetIPAdd.csprojResolveAssemblyReference.cache
+E:\GitHub\GetIPAdd\GetIPAdd\GetIPAdd\obj\Debug\GetIPAdd.Form1.resources
+E:\GitHub\GetIPAdd\GetIPAdd\GetIPAdd\obj\Debug\GetIPAdd.Properties.Resources.resources
+E:\GitHub\GetIPAdd\GetIPAdd\GetIPAdd\obj\Debug\GetIPAdd.csproj.GenerateResource.Cache
+E:\GitHub\GetIPAdd\GetIPAdd\GetIPAdd\obj\Debug\GetIPAdd.exe
+E:\GitHub\GetIPAdd\GetIPAdd\GetIPAdd\obj\Debug\GetIPAdd.pdb
